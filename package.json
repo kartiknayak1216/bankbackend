@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
-     "prepare": "prisma generate"
+     "prepare": " npx prisma generate"
   },
   "keywords": [],
   "author": "",
